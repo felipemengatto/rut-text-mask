@@ -18,9 +18,9 @@ import RutTextMask from 'rut-text-mask';
 
 ### Basic Usage
 ```jsx
-    <MaskedInput
-        mask={RutTextMask}
-    />
+<MaskedInput
+    mask={RutTextMask}
+/>
 ```
 
 ### Tested with the following RUTs:
