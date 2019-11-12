@@ -1,0 +1,23 @@
+{
+  "name": "rut-text-mask",
+  "version": "1.0.0",
+  "description": "A plugin for the wrapper on top of another plugin. All of this to facilitate RUT validation.",
+  "main": "lib/index.js",
+  "keywords": [
+    "Mask",
+    "RUT",
+    "Chile",
+    "Document",
+    "Input",
+    "Input Mask",
+    "React",
+    "Vue",
+    "text-mask",
+    "JS"
+  ],
+  "author": "Felipe Mengatto",
+  "license": "ISC",
+  "dependencies": {
+    "text-mask-rut": "0.0.3"
+  }
+}
