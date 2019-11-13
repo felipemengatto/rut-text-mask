@@ -9,6 +9,8 @@ https://github.com/text-mask/text-mask
 ### Install Package
 ```
 npm i -S rut-text-mask
+or
+yarn add rut-text-mask
 ```
 
 ### Import Plugin
