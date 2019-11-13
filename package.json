@@ -1,6 +1,6 @@
 {
   "name": "rut-text-mask",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A plugin for the wrapper on top of another plugin. All of this to facilitate RUT validation.",
   "main": "lib/index.js",
   "keywords": [
@@ -19,5 +19,13 @@
   "license": "ISC",
   "dependencies": {
     "text-mask-rut": "0.0.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/felipemengatto/rut-text-mask.git"
+  },
+  "bugs": {
+    "url": "https://github.com/felipemengatto/rut-text-mask/issues"
+  },
+  "homepage": "https://github.com/felipemengatto/rut-text-mask#readme"
 }
